@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7QSBdxlxkG5Ucq8KN230qvnCUMNTLLUdBLQ/U45ehRI6T3vSxDx9wlCUClwrZyHWvKjeHjvKkapNNf4QR1tWbA==",
+  "dgSpecHash": "ero61g01zkVMYyw7e/j5zvkZlTNU8N5MKvR5xO4GQEbM8fc1zpanhvf5VHehWKYWi5DOP8gEcb4+x/zmKaWhNw==",
   "success": true,
-  "projectFilePath": "D:\\Umayer\\WebPracctice\\Web_07-10-2023\\APICrudServer\\APICrud\\APICrud.csproj",
+  "projectFilePath": "D:\\Umayer\\WebPracctice\\WebApp\\APICrudServer\\APICrud\\APICrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umaye\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\umaye\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -59,7 +59,7 @@ namespace APICrud.Controllers
             var customer = await _context.Customers.FindAsync(id);
             if( customer == null)
             {
-                return NotFound("In correct customer id");
+                return NotFound("In correct customer id. Please give correct customer id.");
             }
             _context.Customers.Remove(customer);
             await _context.SaveChangesAsync();
